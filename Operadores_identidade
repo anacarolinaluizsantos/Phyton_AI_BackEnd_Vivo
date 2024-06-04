@@ -1,0 +1,5 @@
+saldo = 1000
+limite = 500
+
+print(limite is saldo)
+print(limite is not saldo)
